@@ -57,7 +57,6 @@ public class CountingSort<T> {
 	}
 }
 
-
 public class Heap<T> {
 	List<T> list;
 	int size;
